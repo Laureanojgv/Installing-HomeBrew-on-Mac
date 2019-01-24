@@ -1,0 +1,14 @@
+Last login: Thu Jan 24 09:40:01 on console
+You have new mail.
+MacBook-Pro-de-Laureano:~ laureano$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+==> This script will install:
+/usr/local/bin/brew
+/usr/local/share/doc/homebrew
+/usr/local/share/man/man1/brew.1
+/usr/local/share/zsh/site-functions/_brew
+/usr/local/etc/bash_completion.d/brew
+/usr/local/Homebrew
+
+Press RETURN to continue or any other key to abort
+-e:280:in `<main>': undefined method `each' for "/Users/laureano/Library/Caches/Homebrew":String (NoMethodError)
+MacBook-Pro-de-Laureano:~ laureano$ 
